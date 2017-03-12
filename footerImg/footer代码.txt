@@ -1,0 +1,26 @@
+<!-- foot B -->
+<img class="footer_img" src="../footerImg/bg.png" alt="">
+<div class="footer">
+  <div class="f_contact">
+    <a href="javascript:;" target="_blank">CONTACT US | 联系我们</a>
+  </div>
+  <div class="f_info">
+    <img class="f_i_top" src="../footerImg/footer_top.jpg" alt="">
+    <div class="f_i_logos">
+      <img src="../footerImg/gadio-01.png" alt="">
+      <img src="../footerImg/gadiopro.png" alt="">
+      <img src="../footerImg/music.png" alt="">
+      <img src="../footerImg/1up.png" alt="">
+      <img src="../footerImg/docu.png" alt="">
+      <img src="../footerImg/special.png" alt="">
+    </div>
+    <div class="f_i_follow">
+      <h4>Follow us</h4>
+    </div>
+    <p>
+      All Rights Reserved 2009-2015 GAMECORES - Terms & Conditions
+      闽ICP备11023385号-1
+    </p>
+  </div>
+</div>
+<!-- foot E -->
